@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+.Trashes
+
+# MATLAB
+*.m~
+*.asv
